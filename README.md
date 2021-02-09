@@ -1,5 +1,9 @@
-After a successful career in telecommunications sales and Airbnb rental investing in Charleston, SC, my focus has shifted back to my original hobby, technology. In March of 2020, right before NYC was shut down, I finished my in-person Software Engineering 15-week immersive at Flatiron School Manhattan.
+Hey there, I'm Tim, and I am a career changer!
 
-For safety reasons (2020, right?), I have moved back to Charleston, where I remotely interned at Errunds. Their goal is to connect local brick and mortar stores with the communities, starting with a bodega in NYC, through an app built in React Native, Express, Apollo GraphQL and PostgreSQL. It was a real pleasure working with some of the most up to date technologies out.
+After a successful run as a B2B Sales Manager at [Cellular Sales](https://www.cellularsales.com), my focus has shifted back to my hobby, the internet. I was tired of **chasing** and wanted to start **building**. It had been a while since I wrote any code, so in October of 2019 I decided to leave my job and move to NYC to accelerate my learning by attending Flatiron School's Immersive Software Engineering Program.
 
-Recently I have finished a co-op program with Hatchways.io. It was a great program with actionable feedback avenues including code reviews, technical reviews/interviews, and peer reviews. You can check out the final product [here](https://mock-interview-platform.herokuapp.com/ "Mock Technical Interview Platform"). I am currently looking for opportunities in Charleston, New York, or remote so if you would like to reach out and discuss potential roles in your company, my email is tim at rines.io.
+For safety reasons (2020, right?) and paternity leave(sabbatical?), I have moved back to Charleston, where I remotely interned at [Errunds](https://www.errundsonline.com) and participated in the [Hatchways](https://www.hatchways.io) Co-Op.  
+
+I am actively searching for the right opportunity at a company who could use a tenacious problem solver and lifelong learner with a keen business sense.  This could be in Charleston, SC, NYC, or remote.
+
+So if you would like to reach out and discuss potential roles in your company, shoot me an <a href = "mailto: tim@rines.io">email</a> or  connect with me on <a href = "https://www.linkedin.com/in/rines/">LinkedIn</a>.
