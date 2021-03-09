@@ -1,6 +1,6 @@
 Hey there, I'm Tim.
 
-After a successful run as a B2B Sales Manager at [Cellular Sales](https://www.cellularsales.com), my focus has shifted back to my hobby, the internet. I was tired of **chasing** and wanted to start **building**. It had been a while since I wrote any code, so in October of 2019 I decided to leave my job and move to NYC to accelerate my learning by attending Flatiron School's Immersive Software Engineering Program.
+After a successful career at [Cellular Sales](https://www.cellularsales.com) and real estate investing, my focus has shifted back to my hobby, the internet. I was tired of **chasing** and wanted to start **building**. It had been a while since I wrote any code, so in October of 2019 I decided to leave my job and move to NYC to accelerate my learning by attending Flatiron School's Immersive Software Engineering Program.
 
 I am actively searching for the right opportunity at a company who could use a tenacious problem solver and lifelong learner with a keen business sense.  This could be in Charleston, SC, NYC, or remote.
 
